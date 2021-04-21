@@ -1,0 +1,7 @@
+html, body {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#backgroundImage {
+    background-image: url('assets/NMP_0530.JPG');
+}
